@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971170347801-tfib8mqj2ndmchockhh1s9oo6m5jkqhu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971170347801-tfib8mqj2ndmchockhh1s9oo6m5jkqhu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>971170347801-afn02ikeiv1g9a32pjo1atmcmrlotgg2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgoughHs5l2Fl7w7ue4iPR03tsMpeBeBA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971170347801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartersvision.home-services</string>
+	<key>PROJECT_ID</key>
+	<string>homeservices-32da6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homeservices-32da6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971170347801:ios:5eb0a1bab3b55bf10aa388</string>
+</dict>
+</plist>
